@@ -1,0 +1,53 @@
+Introduction: What is a Cell?
+Every living thing on Earth, from the tiniest bacteria to the largest blue whale, is made of cells. A cell is the basic building block of life. It is the smallest unit of an organism that can perform all the functions necessary for life. Some organisms, like amoebas, are unicellular, meaning they consist of just one single cell. Other organisms, like humans, dogs, and oak trees, are multicellular, meaning they are made up of trillions of cells working together.
+
+The Cell Theory
+In the 1600s, a scientist named Robert Hooke looked at a thin slice of cork through an early microscope. He saw tiny, empty boxes that reminded him of the small rooms monks lived in, which were called "cells." That is how the cell got its name!
+
+Years of research by other scientists eventually led to the Cell Theory, which has three main rules:
+
+All living things are made of one or more cells.
+
+The cell is the basic unit of structure and function in living things.
+
+All cells come from pre-existing cells (they don't just appear out of nowhere!).
+
+Two Main Types of Cells: Prokaryotic and Eukaryotic
+Even though there are millions of different types of cells, they can all be divided into two main categories: Prokaryotes and Eukaryotes.
+
+Prokaryotic cells are simple, small, and do not have a nucleus. Their genetic material (DNA) just floats freely inside the cell. Bacteria are the most common example of prokaryotes. Because they are so simple, they are almost always unicellular.
+
+Eukaryotic cells are much larger and more complex. The biggest difference is that eukaryotic cells have a nucleus—a special, protected membrane that holds the DNA. They also contain many other specialized mini-organs called "organelles." Plants, animals, fungi, and protists are all made of eukaryotic cells.
+
+Inside the Eukaryotic Cell: The Organelles
+Think of a eukaryotic cell like a bustling miniature city. In a city, you have a power plant, a post office, a mayor's office, and a waste facility. A cell has similar structures called organelles ("little organs"), each with a specific job.
+
+The Nucleus (The Mayor's Office): The nucleus is the control center of the cell. It contains the cell's DNA, which is the instruction manual for building proteins and running the cell.
+
+The Cell Membrane (The City Border): This is a flexible outer layer that surrounds the cell. It acts like a security guard, controlling what enters (like nutrients and water) and what leaves (like waste).
+
+Cytoplasm (The Landscape): This is a jelly-like fluid that fills the inside of the cell. All the organelles float in the cytoplasm.
+
+Mitochondria (The Power Plants): These are the powerhouses of the cell. They take the sugar from the food we eat and turn it into usable energy for the cell in a process called cellular respiration.
+
+Ribosomes (The Factories): Ribosomes are tiny protein-making factories. Proteins are essential because they build cellular structures and do most of the work in the cell.
+
+Endoplasmic Reticulum (The Highway System): The ER is a network of folded membranes. It helps transport materials around the cell. The "Rough ER" has ribosomes attached to it, while the "Smooth ER" does not.
+
+Golgi Body (The Post Office): The Golgi apparatus receives proteins from the ER, packages them up, and ships them to different parts of the cell or outside the cell.
+
+Lysosomes (The Recycling Center): These organelles contain special chemicals that break down worn-out cell parts and waste materials.
+
+Plant Cells vs. Animal Cells
+Both plants and animals are made of eukaryotic cells, which means they share most of the same organelles, like the nucleus, mitochondria, and cell membrane. However, because plants and animals live very differently (plants make their own food, animals have to eat food), their cells have a few key differences.
+
+Plant cells have three special features that animal cells do not:
+
+Cell Wall: Plant cells have a rigid, tough outer layer called a cell wall located just outside the cell membrane. It provides structural support so plants can stand up tall towards the sun without having a skeleton.
+
+Chloroplasts: Since plants cannot eat food, they have to make it. Chloroplasts are green organelles that capture energy from sunlight and use it to make sugar (food) in a process called photosynthesis.
+
+Large Central Vacuole: While animal cells have many small vacuoles for storage, plant cells usually have one massive central vacuole that stores water. When this vacuole is full, it pushes against the cell wall, keeping the plant crisp and upright. (When a plant needs water, this vacuole shrinks, which is why plants wilt!).
+
+Conclusion
+From the tough cell wall of an oak tree leaf to the energy-packed mitochondria in your muscle cells, these microscopic structures are perfectly designed to keep organisms alive. Understanding cells is the first step to understanding all of biology!
