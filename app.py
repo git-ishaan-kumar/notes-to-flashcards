@@ -27,8 +27,17 @@ github_svg = '<svg style="width: 20px; height: 20px; margin-right: 10px; fill: v
 
 button_style = "background-color: var(--secondary-background-color); color: var(--text-color); padding: 0.5rem 1rem; border-radius: 0.5rem; display: flex; align-items: center; border: 1px solid rgba(128, 128, 128, 0.4); font-family: sans-serif; font-size: 14px; font-weight: 500;"
 
-st.sidebar.markdown(f'<a href="" target="_blank" style="text-decoration: none; display: block; margin-bottom: 10px;"><div style="{button_style}">{youtube_svg}Watch Video Demo</div></a>', unsafe_allow_html=True)
-st.sidebar.markdown(f'<a href="https://github.com/git-ishaan-kumar/notes-to-flashcards" target="_blank" style="text-decoration: none; display: block;"><div style="{button_style}">{github_svg}Open in GitHub</div></a>', unsafe_allow_html=True)
+st.sidebar.markdown(
+    f"""
+    <a href="https://youtu.be/O4EYNBXZeUk" target="_blank" style="text-decoration: none; display: block; margin-bottom: 10px;">
+        <div style="{button_style}">{youtube_svg}Watch Video Demo</div>
+    </a>
+    <a href="https://github.com/git-ishaan-kumar/notes-to-flashcards" target="_blank" style="text-decoration: none; display: block;">
+        <div style="{button_style}">{github_svg}Open in GitHub</div>
+    </a>
+    """,
+    unsafe_allow_html=True
+)
 
 # Main Interface
 if st.session_state.deck is None:
